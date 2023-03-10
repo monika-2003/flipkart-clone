@@ -2,6 +2,12 @@
   text-align: center;
 }
 
+.header {
+  background-color: #2874f0;
+  height: 55px;
+  /* text-transform: capitalize; */
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
